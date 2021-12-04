@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Run App from Visual Studio Code!</Text>
+      <Text>Run 1st App from Visual Studio Code!</Text>
       <StatusBar style="auto" />
     </View>
   );
